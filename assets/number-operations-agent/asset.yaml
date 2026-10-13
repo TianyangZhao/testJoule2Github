@@ -1,0 +1,41 @@
+apiVersion: asset.sap/v1
+kind: Asset
+type: agent
+
+metadata:
+  name: number-operations-agent
+  version: 1.0.0
+
+agentCard:
+  name: Number Operations Agent
+  version: 1.0.0
+  description: An AI agent that handles multiple number operations including arithmetic, statistics, unit conversions, and financial calculations via natural language.
+
+provides:
+  apis:
+    - name: number-operations-agent
+      kind: a2a
+      ordId: customer.build:apiResource:number-operations-agent-74c03.number-operations-agent:v1
+
+container:
+  buildPath: .
+  port: 5000
+
+probes:
+  startup:
+    path: /.well-known/agent.json
+    periodSeconds: 5
+    timeoutSeconds: 3
+    failureThreshold: 18
+  liveness:
+    path: /.well-known/agent.json
+    initialDelaySeconds: 15
+    periodSeconds: 10
+    timeoutSeconds: 5
+    failureThreshold: 3
+  readiness:
+    path: /.well-known/agent.json
+    initialDelaySeconds: 5
+    periodSeconds: 5
+    timeoutSeconds: 3
+    failureThreshold: 3
