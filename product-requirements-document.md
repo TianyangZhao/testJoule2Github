@@ -2,7 +2,7 @@
 
 **Title:** Number Operations Agent
 **Date:** 2026-10-13
-**Owner:** Product Owner
+**Owner:** Remote Team
 **Solution Category:** AI Agent
 
 ## Product Purpose & Value Proposition
