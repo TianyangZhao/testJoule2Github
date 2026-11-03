@@ -1,4 +1,4 @@
-# Intent
+# Intent (E2E Test Remote Change)
 
 ## Business challenge
 
@@ -76,5 +76,5 @@ Build a pro-code Python AI agent following the A2A protocol. The agent exposes a
 
 AI Agent
 
-#### Intent fit
+#### Intent (E2E Test Remote Change) fit
 95%
