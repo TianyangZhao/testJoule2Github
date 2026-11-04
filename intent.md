@@ -1,4 +1,4 @@
-# Intent (E2E Test Remote Change)
+# Intent (E2E Test Remote Change Version 2)
 
 ## Business challenge
 
