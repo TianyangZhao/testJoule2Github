@@ -1,4 +1,4 @@
-# Intent (Jade Team Version 1)
+# Intent (Tianyang Version) 
 
 ## Business challenge
 
