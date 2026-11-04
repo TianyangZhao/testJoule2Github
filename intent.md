@@ -1,4 +1,4 @@
-# Intent (E2E Test Remote Change Version 2)
+# Intent (Jade Team Version 1)
 
 ## Business challenge
 
