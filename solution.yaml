@@ -1,5 +1,39 @@
 apiVersion: solution.sap/v1
 kind: Solution
+kind: Solution
+
+metadata:
+  name: number-operations-agent-74c03
+kind: Solution
+
+metadata:
+  name: number-operations-agent-74c03
+  version: 1.1.0-e2e-test
+  description: AI agent that handles multiple number operations including arithmetic, statistics, unit conversions, and financial calculations via natural language.
+
+assets:
+kind: Solution
+
+metadata:
+  name: number-operations-agent-74c03
+  version: 1.1.0-e2e-test
+  description: AI agent that handles multiple number operations including arithmetic, statistics, unit conversions, and financial calculations via natural language.
+
+assets:
+  - ref: ./assets/number-operations-agent/asset.yaml
+apiVersion: solution.sap/v1
+
+kind: Solution
+
+metadata:
+  name: number-operations-agent-74c03
+  version: 1.1.0-e2e-test
+  description: AI agent that handles multiple number operations including arithmetic, statistics, unit conversions, and financial calculations via natural language.
+
+assets:
+  - ref: ./assets/number-operations-agent/asset.yaml
+apiVersion: solution.sap/v1
+kind: Solution
 
 metadata:
   name: number-operations-agent-74c03
