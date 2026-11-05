@@ -1,4 +1,4 @@
-# Remote Intent R3
+# Local Intent R3
 
 ## Business challenge
 
