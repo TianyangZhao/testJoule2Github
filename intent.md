@@ -1,4 +1,4 @@
-# Remote Intent S2
+# Remote Intent S3
 
 ## Business challenge
 
