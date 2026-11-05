@@ -1,4 +1,4 @@
-# Intent (Tianyang Version) 
+# Remote Intent R1
 
 ## Business challenge
 
