@@ -1,4 +1,4 @@
-# Remote Intent S3
+# Local Intent S3
 
 ## Business challenge
 
