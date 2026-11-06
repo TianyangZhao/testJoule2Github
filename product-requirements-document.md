@@ -2,7 +2,7 @@
 
 **Title:** Number Operations Agent
 **Date:** 2026-10-13
-**Owner:** Remote Owner R1B
+**Owner:** Tianyang
 **Solution Category:** AI Agent
 
 ## Product Purpose & Value Proposition
