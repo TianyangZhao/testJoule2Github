@@ -1,1 +1,0 @@
-Joule remote-ahead acceptance fixture 2026-11-10. Remove after rejection check.
