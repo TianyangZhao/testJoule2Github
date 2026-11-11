@@ -1,3 +1,3 @@
 Notification preferences
-Channel: phone
+Channel: email
 Frequency: daily
