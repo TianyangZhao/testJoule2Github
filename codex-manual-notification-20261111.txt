@@ -1,3 +1,0 @@
-Notification preferences
-Channel: email
-Frequency: daily
