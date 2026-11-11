@@ -1,0 +1,11 @@
+Delivery note
+Delivery time: 3 days
+Packing: recyclable box
+Tracking: included
+Currency: EUR
+Support: weekdays
+Contact: support@example.invalid
+Region: Europe
+Language: English
+Returns: 14 days
+End of note
